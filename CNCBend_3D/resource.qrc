@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/folder-new.png</file>
+        <file>resource/save.png</file>
+        <file>resource/print.png</file>
+        <file>resource/bend.png</file>
+        <file>resource/deploy.png</file>
+        <file>resource/new.png</file>
+        <file>resource/f3.png</file>
+        <file>resource/h16.png</file>
+        <file>resource/return.jpg</file>
+        <file>resource/compute.png</file>
+        <file>resource/zoom-in.png</file>
+        <file>resource/zoom-original.png</file>
+        <file>resource/zoom-out.png</file>
+        <file>resource/QQ截图20160120144854.png</file>
+        <file>resource/QQ截图20160120144623.png</file>
+        <file alias="check">resource/check_26.png</file>
+        <file alias="gauge_4">resource/gauge_four.bmp</file>
+        <file alias="gauge_1">resource/gauge_one.bmp</file>
+        <file alias="gauge_3">resource/gauge_three.bmp</file>
+        <file alias="gauge_2">resource/gauge_two.bmp</file>
+        <file alias="code">resource/Code_Window_112px_1197680_easyicon.net.png</file>
+        <file alias="transfer">resource/File_Transfer_Upload_256px_1072485_easyicon.net.png</file>
+        <file alias="link">resource/Network_Window_512px_1178275_easyicon.net.png</file>
+        <file alias="simulate">resource/package_games_simulation_128px_1078266_easyicon.net.png</file>
+        <file alias="order">resource/Process_Ok_512px_582425_easyicon.net.png</file>
+        <file alias="machine">resource/sewing_machine_199px_1189742_easyicon.net.png</file>
+    </qresource>
+</RCC>
